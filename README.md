@@ -1,1 +1,3 @@
 # CECS-424-Sp2017---Assignment-5
+
+Fortran 77 was a fairly nice experience considering we've been working with functional programming for the past month. The fact that it was imperative did not make it easy though. Since it's one of the oldest languages, finding any help on it was very VERY hard. Looking up the error messages I would get lead nowhere, unlike with other languages, where I can look up the error messages and get their solutions pretty quickly. In the end, I unfortunately could not finish the assignment completely. All I was able to implement was an array of a user chosen size (within a max size), with elements of integers filled by user, and automatically sorted from smallest to highest number.
